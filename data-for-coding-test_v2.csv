@@ -1,0 +1,70 @@
+NUTS_Code,NUTS_name,Country,Population,GDP_per_capita,Unemployment_rate
+BG31,Северозападен,Bulgaria,1102316,8100,5.2
+BG32,Северен централен,Bulgaria,1032931,8000,5.4
+BG33,Североизточен,Bulgaria,1147868,8200,5.1
+BG34,Югоизточен,Bulgaria,1089965,8100,5.3
+BG41,Югозападен,Bulgaria,1122396,8300,5
+BG42,Южен централен,Bulgaria,1112726,8200,5.2
+CZ01,Praha,Czechia,1294513,26800,2.1
+CZ02,Střední Čechy,Czechia,1346375,26900,2
+CZ03,Jihozápad,Czechia,1178800,,2.2
+CZ04,Severozápad,Czechia,1214054,26600,2.3
+CZ05,Severovýchod,Czechia,1221832,26800,2.1
+CZ06,Jihovýchod,Czechia,1215475,26700,2.2
+CZ07,Střední Morava,Czechia,1221833,,2.1
+CZ08,Moravskoslezsko,Czechia,1178800,26700,2.2
+DK01,Hovedstaden,Denmark,1345763,49100,3.2
+DK02,Sjælland,Denmark,1356452,49000,3.3
+DK03,Syddanmark,Denmark,1345763,49100,3.2
+DK04,Midtjylland,Denmark,1356452,49000,3.3
+DK01,Hovedstaden,Denmark,1345763,49100,3.2
+DK02,Sjælland,Denmark,1356452,,3.3
+DK03,Syddanmark,Denmark,1345763,49100,3.2
+DK04,Midtjylland,Denmark,1356452,49000,3.3
+DE11,Stuttgart,Germany,1045688,41100,3.1
+DE12,Karlsruhe,Germany,1067021,41200,3
+DE13,Freiburg,Germany,1089412,41300,2.9
+DE14,Tübingen,Germany,1112871,41400,2.8
+DE21,Oberbayern,Germany,1137408,,2.7
+DE22,Niederbayern,Germany,1163036,41600,2.6
+DE23,Oberpfalz,Germany,1189768,41700,2.5
+DE24,Oberfranken,Germany,1217611,41800,2.4
+DE25,Mittelfranken,Germany,1246573,41900,2.3
+DE26,Unterfranken,Germany,1276662,42000,2.2
+DE27,Schwaben,Germany,1307890,42100,2.1
+DE27,Schwaben,Germany,13,45,2.1
+DE30,Berlin,Germany,1340274,42200,2
+ES11,Galicia,Spain,1028435,24900,12.1
+ES12,Principado de Asturias,Spain,1054401,25000,11.9
+ES13,Cantabria,Spain,1081693,25100,11.7
+ES21,País Vasco,Spain,1110321,25200,11.5
+ES22,Comunidad Foral de Navarra,Spain,1140289,25300,11.3
+ES23,La Rioja,Spain,1171603,25400,11.1
+ES23,La Rioja,Spain,117161203,45675656,11.1
+ES24,Aragón,Spain,1204273,25500,10.9
+ES30,Comunidad de Madrid,Spain,1238306,25600,10.7
+FR10,Île de France,France,2601907,53100,7.2
+FR21,Champagne-Ardenne,France,1305372,35800,8.1
+FR22,Picardie,France,1331480,35900,8
+FR23,Haute-Normandie,France,1358110,36000,7.9
+FR24,Centre,France,1385272,36100,7.8
+FR25,Basse-Normandie,France,1412971,36200,7.7
+FR26,Bourgogne,France,1441212,36300,7.6
+FR30,Nord - Pas-de-Calais,France,1470004,36400,7.5
+FR41,Lorraine,France,1499351,36500,7.4
+FR42,Alsace,France,1529263,36600,7.3
+FR43,Franche-Comté,France,1559746,36700,7.2
+FR51,Pays de la Loire,France,1590808,36800,7.1
+FR52,Bretagne,France,1622456,,7
+FR53,Poitou-Charentes,France,1654700,37000,6.9
+FR61,Aquitaine,France,1687545,37100,6.8
+FR62,Midi-Pyrénées,France,1720998,37200,6.7
+IT11,Piemonte,Italy,1220062,29100,9.1
+IT12,Valle d'Aosta/Vallée d'Aoste,Italy,1251487,29200,9
+IT13,Liguria,Italy,1283524,29300,8.9
+IT31,Trentino-Alto Adige/Südtirol,Italy,1383404,29600,8.6
+IT32,Veneto,Italy,1418000,29700,8.5
+IT33,Friuli-Venezia Giulia,Italy,1453270,29800,8.4
+IT51,Toscana,Italy,1601351,30200,8
+IT52,Umbria,Italy,1640185,30300,7.9
+IT53,Marche,Italy,1679768,30400,7.8
