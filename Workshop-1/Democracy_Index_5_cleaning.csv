@@ -1,0 +1,171 @@
+Region,2022rank,Country,Regimetype,2022,2021
+Reg:North America,12,Canada,Full democracy,8.88,8.87
+Reg:North America,30,United States,Flawed democracy,7.85,7.85
+Reg:Western Europe,20,Austria,Full democracy,8.2,8.07
+Reg:Western Europe,36,Belgium,Flawed democracy,7.64,7.51
+Reg:Western Europe,37,Cyprus,Flawed democracy,7.38,7.43
+Reg:Western Europe,6,Denmark,Full democracy,9.28,9.09
+Reg:Western Europe,5,Finland,Full democracy,9.29,9.27
+Reg:Western Europe,22,France,Full democracy,8.07,7.99
+Reg:Western Europe,14,Germany,Full democracy,8.8,8.67
+Reg:Western Europe,25,Greece,Flawed democracy,7.97,7.56
+Reg:Western Europe,25,Greece,Flawed democracy,7.97,7.56
+Reg:Western Europe,3,Iceland,Full democracy,,9.18
+Reg:Western Europe,8,Ireland,Full democracy,9.13,9
+Reg:Western Europe,34,Italy,Flawed democracy,7.69,7.68
+Reg:Western Europe,13,Luxembourg,Full democracy,8.81,8.68
+Reg:Western Europe,33,Malta,Flawed democracy,7.7,7.57
+Reg:Western Europe,9,Netherlands,Full democracy,9,8.88
+Reg:Western Europe,1,Norway,Full democracy,9.81,9.75
+Reg:Western Europe,28,Portugal,Flawed democracy,7.95,7.82
+Reg:Western Europe,22,Spain,Full democracy,,7.94
+Reg:Western Europe,4,Sweden,Full democracy,9.39,9.26
+Reg:Western Europe,7,Switzerland,Full democracy,9.14,
+Reg:Western Europe,103,Turkey,Hybrid regime,4.35,4.35
+Reg:Western Europe,18,United Kingdom,Full democracy,8.28,8.1
+Reg:Central and Eastern Europe,64,Albania,Flawed democracy,6.41,6.11
+Reg:Central and Eastern Europe,82,Armenia,Hybrid regime,5.63,5.49
+Reg:Central and Eastern Europe,134,Azerbaijan,Authoritarian,2.87,2.68
+Reg:Central and Eastern Europe,153,Belarus,Authoritarian,1.99,2.41
+Reg:Central and Eastern Europe,97,Bosnia and Herzegovina,Hybrid regime,5,
+Reg:Central and Eastern Europe,57,Bulgaria,Flawed democracy,6.53,6.64
+Reg:Central and Eastern Europe,59,Croatia,Flawed democracy,6.5,6.5
+Reg:Central and Eastern Europe,25,Czech Republic,Flawed democracy,7.97,7.74
+Reg:Central and Eastern Europe,27,Estonia,Flawed democracy,7.96,7.84
+Reg:Central and Eastern Europe,90,Georgia,Hybrid regime,5.2,5.12
+Reg:Central and Eastern Europe,90,Georgia,Hybrid regime,5.2,5.12
+Reg:Central and Eastern Europe,56,Hungary,Flawed democracy,6.64,6.5
+Reg:Central and Eastern Europe,127,Kazakhstan,Authoritarian,3.08,3.08
+Reg:Central and Eastern Europe,116,Kyrgyzstan,Authoritarian,3.62,3.62
+Reg:Central and Eastern Europe,38,Latvia,Flawed democracy,7.37,7.31
+Reg:Central and Eastern Europe,39,Lithuania,Flawed democracy,,7.18
+Reg:Central and Eastern Europe,69,Moldova,Flawed democracy,6.23,6.1
+Reg:Central and Eastern Europe,61,Montenegro,Flawed democracy,6.45,6.02
+Reg:Central and Eastern Europe,72,North Macedonia,Flawed democracy,6.1,
+Reg:Central and Eastern Europe,46,Poland,Crazy,7.04,6.8
+Reg:Central and Eastern Europe,61,Romania,,6.45,6.43
+Reg:Central and Eastern Europe,146,Russia,Authoritarian,2.28,3.24
+Reg:Central and Eastern Europe,68,Serbia,Flawed democracy,6.33,6.36
+Reg:Central and Eastern Europe,43,Slovakia,Flawed democracy,7.07,7.03
+Reg:Central and Eastern Europe,31,Slovenia,Flawed democracy,7.75,7.54
+Reg:Central and Eastern Europe,157,Tajikistan,Authoritarian,1.94,
+Reg:Central and Eastern Europe,161,Turkmenistan,Authoritarian,1.66,1.66
+Reg:Central and Eastern Europe,87,Ukraine,Hybrid regime,5.42,5.57
+Reg:Central and Eastern Europe,149,Uzbekistan,Authoritarian,2.12,2.12
+Reg:Latin America and the Caribbean,50,Argentina,Flawed democracy,6.85,6.81
+Reg:Latin America and the Caribbean,100,Bolivia,Hybrid regime,4.51,4.65
+Reg:Latin America and the Caribbean,51,Brazil,Flawed democracy,6.78,
+Reg:Latin America and the Caribbean,19,Chile,Full democracy,8.22,7.92
+Reg:Latin America and the Caribbean,53,Colombia,Flawed democracy,6.72,6.48
+Reg:Latin America and the Caribbean,17,Costa Rica,Full democracy,8.29,8.07
+Reg:Latin America and the Caribbean,139,Cuba,Authoritarian,2.65,2.59
+Reg:Latin America and the Caribbean,65,Dominican Republic,Flawed democracy,,6.45
+Reg:Latin America and the Caribbean,81,Ecuador,Hybrid regime,5.69,5.71
+Reg:Latin America and the Caribbean,93,El Salvador,Hybrid regime,5.06,5.72
+Reg:Latin America and the Caribbean,98,Guatemala,Hybrid regime,4.68,4.62
+Reg:Latin America and the Caribbean,67,Guyana,Flawed democracy,6.34,6.25
+Reg:Latin America and the Caribbean,135,Haiti,Authoritarian,2.81,3.48
+Reg:Latin America and the Caribbean,91,Honduras,Hybrid regime,5.15,5.1
+Reg:Latin America and the Caribbean,42,Jamaica,Flawed democracy,,7.13
+Reg:Latin America and the Caribbean,89,Mexico,Hybrid regime,5.25,5.57
+Reg:Latin America and the Caribbean,143,Nicaragua,Authoritarian,2.5,2.69
+Reg:Latin America and the Caribbean,49,Panama,Flawed democracy,6.91,6.85
+Reg:Latin America and the Caribbean,77,Paraguay,Hybrid regime,5.89,5.86
+Reg:Latin America and the Caribbean,75,Peru,Hybrid regime,5.92,6.09
+Reg:Latin America and the Caribbean,48,Suriname,Flawed democracy,6.95,6.82
+Reg:Latin America and the Caribbean,41,Trinidad and Tobago,Flawed democracy,7.16,7.16
+Reg:Latin America and the Caribbean,11,Uruguay,Full democracy,8.91,8.85
+Reg:Latin America and the Caribbean,147,Venezuela,Authoritarian,2.23,2.11
+Reg:Asia and Australasia,167,Afghanistan,Authoritarian,0.32,0.32
+Reg:Asia and Australasia,15,Australia,Full democracy,8.71,8.9
+Reg:Asia and Australasia,73,Bangladesh,Hybrid regime,5.99,5.99
+Reg:Asia and Australasia,84,Bhutan,Hybrid regime,5.54,5.71
+Reg:Asia and Australasia,121,Cambodia,Authoritarian,3.18,2.9
+Reg:Asia and Australasia,156,China,Authoritarian,1.94,2.21
+Reg:Asia and Australasia,156,China,Authoritarian,1.94,2.21
+Reg:Asia and Australasia,83,Fiji,Hybrid regime,5.55,5.61
+Reg:Asia and Australasia,88,Hong Kong,Hybrid regime,5.28,5.6
+Reg:Asia and Australasia,46,India,Flawed democracy,7.04,6.91
+Reg:Asia and Australasia,54,Indonesia,Flawed democracy,6.71,6.71
+Reg:Asia and Australasia,16,Japan,Full democracy,8.33,8.15
+Reg:Asia and Australasia,159,Laos,Authoritarian,1.77,1.77
+Reg:Asia and Australasia,40,Malaysia,Flawed democracy,7.3,7.24
+Reg:Asia and Australasia,66,Mongolia,Flawed democracy,6.35,6.42
+Reg:Asia and Australasia,166,Myanmar,Authoritarian,0.74,1.02
+Reg:Asia and Australasia,101,Nepal,Hybrid regime,4.49,4.41
+Reg:Asia and Australasia,2,New Zealand,Full democracy,9.61,9.37
+Reg:Asia and Australasia,165,North Korea,Authoritarian,1.08,1.08
+Reg:Asia and Australasia,107,Pakistan,Hybrid regime,4.13,4.31
+Reg:Asia and Australasia,74,Papua New Guinea,Hybrid regime,5.97,6.1
+Reg:Asia and Australasia,52,Philippines,Flawed democracy,6.73,6.62
+Reg:Asia and Australasia,70,Singapore,Flawed democracy,6.22,6.23
+Reg:Asia and Australasia,24,South Korea,Full democracy,8.03,8.16
+Reg:Asia and Australasia,60,Sri Lanka,Flawed democracy,6.47,6.14
+Reg:Asia and Australasia,10,Taiwan,Full democracy,8.99,8.99
+Reg:Asia and Australasia,55,Thailand,Flawed democracy,6.67,6.04
+Reg:Asia and Australasia,44,East Timor,Flawed democracy,7.06,7.06
+Reg:Asia and Australasia,138,Vietnam,Authoritarian,2.73,2.94
+Reg:Middle East and North Africa,113,Algeria,Authoritarian,3.66,3.77
+Reg:Middle East and North Africa,142,Bahrain,Authoritarian,2.52,2.52
+Reg:Middle East and North Africa,131,Egypt,Authoritarian,2.93,2.93
+Reg:Middle East and North Africa,154,Iran,Authoritarian,1.96,1.95
+Reg:Middle East and North Africa,124,Iraq,Authoritarian,3.13,3.51
+Reg:Middle East and North Africa,29,Israel,Flawed democracy,7.93,7.97
+Reg:Middle East and North Africa,122,Jordan,Authoritarian,3.17,3.49
+Reg:Middle East and North Africa,111,Kuwait,Authoritarian,3.83,3.91
+Reg:Middle East and North Africa,115,Lebanon,Authoritarian,3.64,3.84
+Reg:Middle East and North Africa,151,Libya,Authoritarian,2.06,1.95
+Reg:Middle East and North Africa,95,Morocco,Hybrid regime,5.04,5.04
+Reg:Middle East and North Africa,125,Oman,Authoritarian,3.12,3
+Reg:Middle East and North Africa,110,Palestine,Authoritarian,3.86,3.94
+Reg:Middle East and North Africa,114,Qatar,Authoritarian,3.65,3.65
+Reg:Middle East and North Africa,150,Saudi Arabia,Authoritarian,2.08,2.08
+Reg:Middle East and North Africa,144,Sudan,Authoritarian,2.47,2.47
+Reg:Middle East and North Africa,163,Syria,Authoritarian,1.43,1.43
+Reg:Middle East and North Africa,85,Tunisia,Hybrid regime,5.51,5.99
+Reg:Middle East and North Africa,133,United Arab Emirates,Authoritarian,2.9,2.9
+Reg:Middle East and North Africa,155,Yemen,Authoritarian,1.95,1.95
+Reg:Sub-Saharan Africa,109,Angola,Authoritarian,3.96,3.37
+Reg:Sub-Saharan Africa,104,Benin,Hybrid regime,4.28,4.19
+Reg:Sub-Saharan Africa,32,Botswana,Flawed democracy,7.73,7.73
+Reg:Sub-Saharan Africa,127,Burkina Faso,Authoritarian,3.08,3.84
+Reg:Sub-Saharan Africa,148,Burundi,Authoritarian,2.13,2.13
+Reg:Sub-Saharan Africa,35,Cape Verde,Flawed democracy,7.65,7.65
+Reg:Sub-Saharan Africa,140,Cameroon,Authoritarian,2.56,2.56
+Reg:Sub-Saharan Africa,164,Central African Republic,Authoritarian,1.35,1.43
+Reg:Sub-Saharan Africa,160,Chad,Authoritarian,1.67,1.67
+Reg:Sub-Saharan Africa,120,Comoros,Authoritarian,3.2,3.2
+Reg:Sub-Saharan Africa,136,Republic of the Congo,Authoritarian,2.79,2.79
+Reg:Sub-Saharan Africa,106,Ivory Coast,Hybrid regime,4.22,4.22
+Reg:Sub-Saharan Africa,162,Democratic Republic of the Congo,Authoritarian,1.48,1.4
+Reg:Sub-Saharan Africa,137,Djibouti,Authoritarian,2.74,2.74
+Reg:Sub-Saharan Africa,158,Equatorial Guinea,Authoritarian,1.92,1.92
+Reg:Sub-Saharan Africa,152,Eritrea,Authoritarian,2.03,2.03
+Reg:Sub-Saharan Africa,129,Eswatini,Authoritarian,3.01,3.08
+Reg:Sub-Saharan Africa,122,Ethiopia,Authoritarian,3.17,3.3
+Reg:Sub-Saharan Africa,118,Gabon,Authoritarian,3.4,3.4
+Reg:Sub-Saharan Africa,102,Gambia,Hybrid regime,4.47,4.41
+Reg:Sub-Saharan Africa,63,Ghana,Flawed democracy,6.43,6.5
+Reg:Sub-Saharan Africa,145,Guinea,Authoritarian,2.32,2.28
+Reg:Sub-Saharan Africa,140,Guinea-Bissau,Authoritarian,2.56,2.75
+Reg:Sub-Saharan Africa,94,Kenya,Hybrid regime,5.05,5.05
+Reg:Sub-Saharan Africa,71,Lesotho,Flawed democracy,6.19,6.3
+Reg:Sub-Saharan Africa,86,Liberia,Hybrid regime,5.43,5.43
+Reg:Sub-Saharan Africa,80,Madagascar,Hybrid regime,5.7,5.7
+Reg:Sub-Saharan Africa,76,Malawi,Hybrid regime,5.91,5.74
+Reg:Sub-Saharan Africa,119,Mali,Authoritarian,3.23,3.48
+Reg:Sub-Saharan Africa,108,Mauritania,Hybrid regime,4.03,4.03
+Reg:Sub-Saharan Africa,21,Mauritius,Full democracy,8.14,8.08
+Reg:Sub-Saharan Africa,117,Mozambique,Authoritarian,3.51,3.51
+Reg:Sub-Saharan Africa,58,Namibia,Flawed democracy,6.52,6.52
+Reg:Sub-Saharan Africa,112,Niger,Authoritarian,3.73,3.22
+Reg:Sub-Saharan Africa,105,Nigeria,Hybrid regime,4.23,4.11
+Reg:Sub-Saharan Africa,126,Rwanda,Authoritarian,3.1,3.1
+Reg:Sub-Saharan Africa,79,Senegal,Hybrid regime,5.72,5.53
+Reg:Sub-Saharan Africa,96,Sierra Leone,Hybrid regime,5.03,4.97
+Reg:Sub-Saharan Africa,45,South Africa,Flawed democracy,7.05,7.05
+Reg:Sub-Saharan Africa,92,Tanzania,Hybrid regime,5.1,5.1
+Reg:Sub-Saharan Africa,130,Togo,Authoritarian,2.99,2.8
+Reg:Sub-Saharan Africa,99,Uganda,Hybrid regime,4.55,4.48
+Reg:Sub-Saharan Africa,78,Zambia,Hybrid regime,5.8,5.72
+Reg:Sub-Saharan Africa,132,Zimbabwe,Authoritarian,2.92,2.92
